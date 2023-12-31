@@ -1,0 +1,33 @@
+# In the Name of God
+
+echo "In the Name of God"
+
+alias cl="clear"
+alias ok="echo '[OK]'"
+alias open="xdg-open"
+alias d="cd ~/Desktop/"
+alias sp="systemctl suspend"
+alias warp="warp-cli"
+alias calender="chromium https://calendar.google.com/calendar/u/0/r > /dev/null 2>&1 &"
+alias zaman="date '+%Y/%m/%d/-%H:%M:%S'"
+
+alias dn-shecan="sudo dnshift shecan"
+alias dn-disconnect="sudo dnshift disconnect"
+alias dn-status="sudo dnshift status"
+
+# move these somewhere else after reading about them
+alias g="git"
+alias gs="git status" 
+alias ga="git add"
+alias gc="git commit"
+alias gca="git commit -a"
+alias gcm="git commit -m"
+alias gco="git checkout"
+alias gcb="git checkout -b"
+alias gbr="git branch"
+alias gbrd="git branch -d"
+alias gbrD="git branch -D"
+alias gbrm="git branch -m"
+alias gbrM="git branch -M"
+alias gbrv="git branch -v"
+
