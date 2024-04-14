@@ -10,10 +10,13 @@ alias sp="systemctl suspend"
 alias warp="warp-cli"
 alias calender="chromium https://calendar.google.com/calendar/u/0/r > /dev/null 2>&1 &"
 alias zaman="date '+%Y/%m/%d/-%H:%M:%S'"
+alias intellij="intellij-idea-community"
+
 
 alias dn-shecan="sudo dnshift shecan"
 alias dn-disconnect="sudo dnshift disconnect"
 alias dn-status="sudo dnshift status"
+alias dn-403="sudo dnshift 403"
 
 # move these somewhere else after reading about them
 alias g="git"
